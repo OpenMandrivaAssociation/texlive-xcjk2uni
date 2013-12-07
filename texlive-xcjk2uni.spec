@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-xcjk2uni
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	Convert CJK characters to Unicode, in pdfTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcjk2uni
