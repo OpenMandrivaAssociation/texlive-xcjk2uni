@@ -1,12 +1,12 @@
-# revision 31464
+# revision 34109
 # category Package
 # catalog-ctan /macros/latex/contrib/xcjk2uni
-# catalog-date 2013-08-18 01:02:56 +0200
+# catalog-date 2014-05-18 07:46:02 +0200
 # catalog-license lppl1.3
-# catalog-version 0.1
+# catalog-version 0.3
 Name:		texlive-xcjk2uni
-Version:	0.1
-Release:	6
+Version:	0.3
+Release:	1
 Summary:	Convert CJK characters to Unicode, in pdfTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcjk2uni
