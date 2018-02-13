@@ -1,5 +1,5 @@
 Name:		texlive-xcjk2uni
-Version:	0.6
+Version:	0.7
 Release:	1
 Summary:	Convert CJK characters to Unicode, in pdfTeX
 Group:		Publishing
