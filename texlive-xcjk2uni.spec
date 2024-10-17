@@ -3,7 +3,7 @@ Version:	54958
 Release:	2
 Summary:	Convert CJK characters to Unicode, in pdfTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcjk2uni
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcjk2uni
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcjk2uni.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcjk2uni.doc.r%{version}.tar.xz
